@@ -1,1 +1,2 @@
-Singly Linked List implementation.
+# Singly Linked List
+Singly linked list practice exercises.
